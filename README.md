@@ -22,3 +22,7 @@ The model gives the result as:
 ### Purpose
 
 To use applicant details to predict loan approval.
+
+### Project by
+
+Patil Vidhya Sree BTech-Computer Science Engineering
